@@ -1,0 +1,18 @@
+img {
+height: 300px;
+width: 300px;
+float: left;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color:pink;
+}
+h1{
+    font-size: 30px;
+    color:pink;  
+}
+h6{
+
+    color:pink ;  
+}
